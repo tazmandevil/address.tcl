@@ -1,7 +1,6 @@
 address.tcl
 -------------
 a simple address book written in tcl/tk
-by tony baldwin | http://wiki.tonybaldwin.info
 released according to the the GPL v.3 or later
 
 This program is cross-platform, and has been tested on 
@@ -43,20 +42,6 @@ Sometimes that can be handy (someone gets married,
 and having a file under their maiden name is still useful), 
 but sometimes it just means extra files and possible confusion.
 
-But, hey, what do you want? I wasted about 4 hours so far, one afternoon, snowed in, 
-to whip up this very, very simple, but useful little program, 
-and I'm giving it away for Free (as in price = $0.00 AND as in Freedom),
-so, you can't really complain...
-
 Hack it up, make it better, have a go, if you think it needs improvement.
 It's GPL code.
-
-I wrote it, because the little bash script program I wrote to manage my addresses on i
-my Debian box won't work on a Windows box (http://tonyb.us/myaddy ), 
-and I needed something very quick, simple, light, to manage some basic address information, 
-and didn't want to use the address book of a mail client or some other unwieldy nonsense, 
-nor have I the skill to make something of this nature in perl, or something, 
-that would work in the CLI like my bash script thingy, and, besides, 
-the Windows cmd.exe is about as useless as bicycle with a square wheels.
-
 
